@@ -182,6 +182,11 @@ FROM AllEvents a
 	```
 
 
+Below figure Stream Analytics job we created to accept IoT hub events and stream the output to Power BI dataset.
+
+![Microsoft Azure stream analytics Job](/Images/StreamAnalyticsJob.PNG)
+
+
 #### Task 3 - Creating the dashboard in Power BI ####
 
 1. Go to [PowerBI.com](https://powerbi.microsoft.com/) and login with your work or school account. 
