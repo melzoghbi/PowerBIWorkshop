@@ -9,14 +9,14 @@ This Github repo contains series of labs that is intented to sharpen your analyt
 
 ## Labs
 
-1. **Lab 0**: Get started with Power BI
+1. **Lab 0**: Get started with Power BI (Estimated time: **30 minutes**)
 Microsoft Power BI helps you stay up to date with the information that matters to you.  
 With Power BI, dashboards help you keep a finger on the pulse of your business.  
 Your dashboards display tiles that you can click to open reports for exploring further. 
 
-[Lab 0](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-get-started/) (Estimated time: **30 minutes**)
+[Lab 0](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-get-started/) 
 
-2. **Lab 1**: Build Real-Time Analytics with Power BI and IoT Hub
+2. **Lab 1**: Build Real-Time Analytics with Power BI and IoT Hub (Estimated time: **60 minutes**)
 In this module you will build the Azure back-end for an automotive parts supplier.
 The challenge here is to process millions of events from concurrent users connected from different devices across the globe.
 
