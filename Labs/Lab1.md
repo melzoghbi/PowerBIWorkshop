@@ -74,7 +74,7 @@ You will notice there are three projects
 3. Open CreateDeviceIdentity project and update the connectionString in App.config file.
 4. Run the "CreateDeviceIdentity" and take a note of the device key that will be displayed.
 
-![Running Create Device Identity App](Images/RegisteringDeviceIoTHub.PNG)
+![Running Create Device Identity App](/Images/RegisteringDeviceIoTHub.PNG)
 
 5. Set SimulatedDevice app as a startup project.
 6. Open App.config file, update iotHubUri and deviceKey configurations.
@@ -216,7 +216,7 @@ Select **Existing Dashboard** and select the dashboard we created in the earlier
 
 1. Go to your dashboard, click on the **ellipsis (...)**  button at the top-right corner of the tile and click the **pen** button to edit the _Tile details_, select the **Display last refresh time** functionality and apply the changes.
 
-![Stream Analytics Dashboard in Power BI](Images/FinalReport_IoTHub.PNG)
+![Stream Analytics Dashboard in Power BI](/Images/FinalReport_IoTHub.PNG)
 	
 ---
 
