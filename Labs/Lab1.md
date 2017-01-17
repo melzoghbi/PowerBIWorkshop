@@ -216,6 +216,7 @@ Select **Existing Dashboard** and select the dashboard we created in the earlier
 
 1. Go to your dashboard, click on the **ellipsis (...)**  button at the top-right corner of the tile and click the **pen** button to edit the _Tile details_, select the **Display last refresh time** functionality and apply the changes.
 
+[Stream Analytics Dashboard in Power BI](/Images/FinalReport_IoTHub.PNG)
 	
 ---
 
