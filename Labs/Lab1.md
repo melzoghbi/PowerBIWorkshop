@@ -1,4 +1,4 @@
-# Lab 1: Build Real-Time Analytics with Power BI and IoT Hub (Estimated time: **75 minutes**)
+# Lab 1: Build Real-Time Analytics with Power BI and IoT Hub 
 
 ## Overview ##
 In this module you will build the Azure back-end for an automotive parts supplier.
