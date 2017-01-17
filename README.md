@@ -14,25 +14,25 @@ Microsoft Power BI helps you stay up to date with the information that matters t
 With Power BI, dashboards help you keep a finger on the pulse of your business.  
 Your dashboards display tiles that you can click to open reports for exploring further. 
 
-![Lab 0](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-get-started/) (Estimated time: **30 minutes**)
+[Lab 0](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-get-started/) (Estimated time: **30 minutes**)
 
 2. **Lab 1**: Build Real-Time Analytics with Power BI and IoT Hub
 In this module you will build the Azure back-end for an automotive parts supplier.
 The challenge here is to process millions of events from concurrent users connected from different devices across the globe.
 
 
-![Lab 1](/Labs/Lab1.md) (Estimated time: **75 minutes**)
+[Lab 1](/Labs/Lab1.md) (Estimated time: **75 minutes**)
 
 3. **Lab 2**: Get started with Power BI Desktop (Estimated time: **9 minutes**)
 In this lab, we take a closer look at how the first two parts of Power BI fit together: Power BI Desktop and Power Bi service.
 
-![Lab 2](https://powerbi.microsoft.com/en-us/guided-learning/powerbi-learning-0-2-get-started-power-bi-desktop/)
+[Lab 2](https://powerbi.microsoft.com/en-us/guided-learning/powerbi-learning-0-2-get-started-power-bi-desktop/)
 
 4. **Lab 3**: Connect to Data Sources in Power BI Desktop (Estimated time: **8 minutes**)
 Power BI Desktop can connect to a whole range of data sources, including on-premises databases, Excel workbooks, and cloud services. 
 This labs covers how to connect to various data sources.
 
-![Lab 3](https://powerbi.microsoft.com/en-us/guided-learning/powerbi-learning-1-2-connect-to-data-sources-in-power-bi-desktop/)
+[Lab 3](https://powerbi.microsoft.com/en-us/guided-learning/powerbi-learning-1-2-connect-to-data-sources-in-power-bi-desktop/)
 
 
 5. **Lab 4**: Get started with Power BI Embedded sample (Estimated time: **75 minutes**)
@@ -40,7 +40,9 @@ With Microsoft Power BI Embedded, you can integrate Power BI reports right into 
 This labs covers how to integrate Power BI into Line Business applications for external customers.
 
 
-![Lab 4](https://docs.microsoft.com/en-us/azure/power-bi-embedded/power-bi-embedded-get-started-sample)
+[Lab 4](https://docs.microsoft.com/en-us/azure/power-bi-embedded/power-bi-embedded-get-started-sample)
 
 
-Got questions? Follow me on Tiwtter: @MostafaElzoghbi
+Got questions? Send it over to me on Twitter: @MostafaElzoghbi
+
+
