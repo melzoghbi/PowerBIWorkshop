@@ -68,16 +68,16 @@ In this task, you'll set up and run a console application that will randomly cre
 You will notice there are three projects
 
 - CreateDeviceIdentity - this will register your device with the IoTHub and display the key that needs to be used in sending messages .
-- ReadDeviceToCloudMessages - this reads the messages from IoT hub that has been sent using SimlulatedDevice app.
+- ReadDeviceToCloudMessages - this reads the messages from IoT hub that has been sent using SimlulatedDevice app (optional to use).
 - SimulatedDevice - this is the simulated device that sends messages to IoT hub.
 
-3. Open CreateDeviceIdentity project and update the connectionString in App.config file.
-4. Run the "CreateDeviceIdentity" and take a note of the device key that will be displayed.
+3. Open **CreateDeviceIdentity** project and update the connectionString in App.config file.
+4. Run the **CreateDeviceIdentity** and take a note of the device key that will be displayed.
 
 ![Running Create Device Identity App](/Images/RegisteringDeviceIoTHub.PNG)
 
-5. Set SimulatedDevice app as a startup project.
-6. Open App.config file, update iotHubUri and deviceKey configurations.
+5. Set **SimulatedDevice** app as a startup project.
+6. Open App.config file, Update iotHubUri and deviceKey configurations.
 
 ```
 
@@ -90,7 +90,7 @@ You will notice there are three projects
 
 ```
 
-7. Run SimulatedDevice app, the app starts to send messages to the created IoT Hub you created earlier.
+7. Run **SimulatedDevice** app, the app starts to send messages to the created IoT Hub you created earlier.
 
 Now we have created our IoT hub and the applications that register, send and receive messages from IoT hub.
 
@@ -182,7 +182,7 @@ FROM AllEvents a
 	```
 
 
-Below figure Stream Analytics job we created to accept IoT hub events and stream the output to Power BI dataset.
+Below figure shows Stream Analytics job we created that accepts IoT hub messages and stream & transform the output to Power BI dataset.
 
 ![Microsoft Azure stream analytics Job](/Images/StreamAnalyticsJob.PNG)
 
