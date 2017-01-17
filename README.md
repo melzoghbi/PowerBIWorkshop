@@ -9,7 +9,7 @@ This Github repo contains series of labs that is intented to sharpen your analyt
 
 ## Labs
 
-1. **Lab 0**: Get started with Power BI (Estimated time: **30 minutes**)
+1. Lab 0: Get started with Power BI (Estimated time: **30 minutes**)
 Microsoft Power BI helps you stay up to date with the information that matters to you.  
 With Power BI, dashboards help you keep a finger on the pulse of your business.  
 Your dashboards display tiles that you can click to open reports for exploring further. 
