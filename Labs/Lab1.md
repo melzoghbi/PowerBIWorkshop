@@ -35,9 +35,9 @@ The following is required to complete this module:
 ## Exercises ##
 This module includes the following exercises:
 
-1. [Creating and integrating IoT Hubs](#Exercise1)
-1. [Using Stream Analytics to process your data](#Exercise2)
-1. [Visualizing your data with Power BI](#Exercise3)
+1. [Creating and integrating IoT Hubs](#exercise-1-creating-and-integrating-iot-hubs)
+1. [Using Stream Analytics to process your data](#exercise-2-using-stream-analytics-to-analyse-your-data)
+1. [Visualizing your data with Power BI](#exercise-3-visualizing-your-data-with-power-bi-dashboards)
 
 Estimated time to complete this module: **75 minutes**
 
@@ -187,7 +187,7 @@ Below figure shows Stream Analytics job we created that accepts IoT hub messages
 ![Microsoft Azure stream analytics Job](/Images/StreamAnalyticsJob.PNG)
 
 
-### Exercise 3: - Visualizing your data with Power BI Dashboards ####
+### Exercise 3: Visualizing your data with Power BI Dashboards ####
 
 1. Go to [PowerBI.com](https://powerbi.microsoft.com/) and login with your work or school account. 
 If the Stream Analytics job query outputs results, you'll see your dataset is already created:
