@@ -1,9 +1,11 @@
-# PowerBIWorkshop
+# Power BI Workshop
 Power BI transforms your company's data into rich visuals for you to collect and organize so you can focus on what matters to you.
 Power BI is a suite of business analytics tools to analyze data and share insights. 
 Monitor your business and get answers quickly with rich dashboards available on every device.
 
 This Github repo contains series of labs that is intented to sharpen your analytical and reporting skills in Power BI.
+
+![Microsoft Power BI](/Images/PowerBI.PNG)
 
 ## Labs
 
