@@ -136,7 +136,7 @@ In this task, you'll specify a job Input using the IoT Hub you previously create
 
 1. Click **Create**.
 
-#### Task 2 - Specifying job Output by adding Power BI output to Stream Analytics ####
+#### Task 3 - Specifying job Output by adding Power BI output to Stream Analytics ####
 
 In this task, you'll add an output to your Stream Analytics job.
 
@@ -187,7 +187,7 @@ Below figure shows Stream Analytics job we created that accepts IoT hub messages
 ![Microsoft Azure stream analytics Job](/Images/StreamAnalyticsJob.PNG)
 
 
-#### Task 3 - Creating the dashboard in Power BI ####
+### Exercise 3: - Visualizing your data with Power BI Dashboards ####
 
 1. Go to [PowerBI.com](https://powerbi.microsoft.com/) and login with your work or school account. 
 If the Stream Analytics job query outputs results, you'll see your dataset is already created:
