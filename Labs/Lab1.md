@@ -1,7 +1,7 @@
 # Lab 1: Build Real-Time Analytics with Power BI and IoT Hub
 
 ## Overview ##
-In this module you will build the Azure back-end for an automotive parts supplier called "Parts Unlimited".
+In this module you will build the Azure back-end for an automotive parts supplier.
 The challenge here is to process millions of events from concurrent users connected from different devices across the globe. 
 With **Azure Event Hubs** or **Azure IoT Hub** you can process large amounts of event data from connected devices and applications. 
 These are managed services that ingest events with elastic scale to accommodate variable load profiles and the spikes caused by intermittent connectivity.
