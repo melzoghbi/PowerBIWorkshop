@@ -42,3 +42,5 @@ This labs covers how to integrate Power BI into Line Business applications for e
 
 ![Lab 4](https://docs.microsoft.com/en-us/azure/power-bi-embedded/power-bi-embedded-get-started-sample)
 
+
+Got questions? Follow me on Tiwtter: @MostafaElzoghbi
