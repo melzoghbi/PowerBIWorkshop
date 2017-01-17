@@ -230,5 +230,5 @@ Select **Existing Dashboard** and select the dashboard we created in the earlier
 By completing this module, you should have:
 
 - Created an **IoT Hub**
-- Used **Stream Analytics** to process data in near-real time and spool data to **Blob Storage** and **Power BI**
+- Used **Stream Analytics** to process data in near-real time to **Power BI**
 - Created sample **Power BI** charts & graphs
