@@ -20,8 +20,7 @@ Your dashboards display tiles that you can click to open reports for exploring f
 In this module you will build the Azure back-end for an automotive parts supplier.
 The challenge here is to process millions of events from concurrent users connected from different devices across the globe.
 
-
-[Lab 1](/Labs/Lab1.md) (Estimated time: **75 minutes**)
+[Lab 1](/Labs/Lab1.md)
 
 3. **Lab 2**: Get started with Power BI Desktop (Estimated time: **9 minutes**)
 In this lab, we take a closer look at how the first two parts of Power BI fit together: Power BI Desktop and Power Bi service.
@@ -32,10 +31,10 @@ In this lab, we take a closer look at how the first two parts of Power BI fit to
 Power BI Desktop can connect to a whole range of data sources, including on-premises databases, Excel workbooks, and cloud services. 
 This labs covers how to connect to various data sources.
 
-[Lab 3](https://powerbi.microsoft.com/en-us/guided-learning/powerbi-learning-1-2-connect-to-data-sources-in-power-bi-desktop/)
+[Lab 3](https://powerbi.microsoft.com/en-us/guided-learning/powerbi-learning-1-2-connect-to-data-sources-in-power-bi-desktop/) (Estimated time: **8 minutes**)
 
 
-5. **Lab 4**: Get started with Power BI Embedded sample (Estimated time: **75 minutes**)
+5. **Lab 4**: Get started with Power BI Embedded sample (Estimated time: **60 minutes**)
 With Microsoft Power BI Embedded, you can integrate Power BI reports right into your web or mobile applications.
 This labs covers how to integrate Power BI into Line Business applications for external customers.
 
