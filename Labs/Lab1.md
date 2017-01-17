@@ -10,7 +10,7 @@ After you collect data into IoT Hubs, you can store the data using a storage clu
 **Azure Stream Analytics** is integrated out-of-the-box with Azure IoT Hubs to ingest millions of events per second. 
 Stream Analytics processes ingested events in real-time, comparing multiple streams or comparing streams with historical values and models. 
 It detects anomalies, transforms incoming data, triggers an alert when a specific error or condition appears in the stream, and displays this real-time data in your dashboard. 
-For this scenario, you will use **Stream Analytics** to process and spool data to Blob Storage and Power BI.
+For this scenario, you will use **Stream Analytics** to process and spool data to Power BI.
 
 ### Objectives ###
 In this module, you'll:
@@ -91,6 +91,8 @@ You will notice there are three projects
 ```
 
 7. Run **SimulatedDevice** app, the app starts to send messages to the created IoT Hub you created earlier.
+
+![Simulated Device App messages to IoT Hub](/Images/SimulatedDeviceIoTHub.PNG)
 
 Now we have created our IoT hub and the applications that register, send and receive messages from IoT hub.
 
