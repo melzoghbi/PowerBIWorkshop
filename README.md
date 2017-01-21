@@ -45,7 +45,10 @@ This Github repo contains series of labs that is intented to sharpen your analyt
     [Lab 4](https://docs.microsoft.com/en-us/azure/power-bi-embedded/power-bi-embedded-get-started-sample)
 
 
+## Presentation
 
-Got questions? Send it over to me on Twitter: @MostafaElzoghbi
+    The workshop presentation that i use to cover Power BI platform capabilities. Enjoy!
+
+Got questions? Send it over to me on Twitter: @MostafaElzoghbi or say hi!
 
 
