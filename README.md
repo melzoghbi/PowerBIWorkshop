@@ -47,7 +47,7 @@ This Github repo contains series of labs that is intented to sharpen your analyt
 
 ## Presentation
 
-    The workshop presentation that i use to cover Power BI platform capabilities is [here](/PPT/). Enjoy!
+    The workshop presentation that i use to cover Power BI platform capabilities is [here](/PPT/Power BI Workshop Presentation.pdf). Enjoy!
 
 Got questions? Send it over to me on Twitter: @MostafaElzoghbi or say hi!
 
